@@ -1,0 +1,10 @@
+{
+  "appName": "My App",
+  "logLevel": "debug",
+  "db": {
+    "host": "localhost",
+    "port": 5432,
+    "user": "admin",
+    "password": "secret"
+  }
+}
